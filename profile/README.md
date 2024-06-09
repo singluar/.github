@@ -11,7 +11,7 @@ As with h-lua, singluar has the use of golang language management tools , and mo
 
 <p align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=git,github,windows,vscode,idea,lua,go,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=git,github,windows,idea,lua,go,md,ps,ae,au&theme=light" />
 </p>
 
 🌈 Using this framework, you can solve most of the lua environment in a variety of strange problems, fix most of the leaks, in addition to supporting the use of lua code to control the slk construction F6 item editor. In addition to supporting the use of lua code to control slk to construct the F6 item editor. It also has a powerful and complete resource management module and UI writing module, the framework also encapsulates almost all the functions and methods that need to be used. Also provides a considerable number of examples , so that users can quickly write business . At the same time the whole project has been completely open source , you can freely control it all . But the disadvantage of this framework is that it is too heavy , which also sets the stage for future lik framework.
