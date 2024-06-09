@@ -18,7 +18,7 @@ As with h-lua, singluar has the use of golang language management tools , and mo
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/h-lua"><img src="https://img.shields.io/badge/GitHub-hLua-blue?logo=github" /></a>
+<a href="https://github.com/singluar"><img src="https://img.shields.io/badge/GitHub-singluar-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQG-476722600-orange?logo=tencentqq" />
 <img src="https://img.shields.io/badge/QQ-854588403-green?logo=tencentqq" />
 </p>
